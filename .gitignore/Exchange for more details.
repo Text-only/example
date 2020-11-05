@@ -1,0 +1,19 @@
+New-ExchangeCertificate -GenerateRequest -Path c:\webore_com.csr -KeySize 2048 -SubjectName "c=US, s=Colorado, l=Aurora, o=Colorado-subsignal, ou=Research, cn=webore.com" -DomainName Electronic
+Database
+AMPPROJECT
+also-ran
+Synth
+V9
+setsgroup
+stat
+Publisher
+Auto-Playlist
+Author
+Developer
+Console
+Administration
+Zone
+Manger
+Director
+Maker
+ -PrivateKeyExportable $True
